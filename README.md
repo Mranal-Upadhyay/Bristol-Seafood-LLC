@@ -5,13 +5,15 @@
 - Bristol is locally owned Seafood production company located in Portland, Maine. They source and produce the highest quality seafood that meets “Uncompromising     Maine   Standards.” The company wants to analyze the yield using Dashboards which helps in making strategic decision for company. 
 - The Dashboard helped Bristol Seafood to flag issues related to the yield meaning which are outside the regular parameters. 
 - The dataset contains production data of majorly three types of fishes’ scallops, cod, and haddock. They Dataset describes daily, weekly, monthly, and quarterly       produced yields. 
+# Data 
+- 
 
 # DETAILED DESIGN APPROACH AND TECHNOLOGY USED
 - Data mining: The programming language used in data mining is Python. And the database is the daily production data in Excel.  
 
 - Data cleaning: Used Python for data cleaning. 
   
-  The data was not the original data - it was a production report file that includes report and production data of all the products (Haddock, Cod,                   Scallops). Extracted the data from the report file using python during extraction.
+  The data was not the original data - it was a production report file that includes report and production data of all the products (Haddock, Cod,                   Scallops). Extracted the data from the report file using python during extraction. 
 
   During extraction, some noise was added to the extracted files, Cleaned the noise and arranged the data properly. Checked for missing values in each file -         they were no missing values in most of the files, some files had very few missing values compared to the entire data. Removed these missing rows since             replacing the data with methods like forward fill, mean, mode, etc. They were not suitable for these values and would bring inconsistencies during visualization   and analysis part.
   ![image](https://user-images.githubusercontent.com/94198619/141537600-a1bb0ff7-423a-423d-8ef9-c67247745dfd.png)
@@ -24,7 +26,7 @@
   ![image](https://user-images.githubusercontent.com/94198619/141538026-5436e4ba-a1de-428a-860f-5abb8714fe6a.png)
 
 - Dashboard Creation: Built visualizations showing yield produced and production growth rate quarterly from 2019 to 2021.	Developed Key Performance Indicators       (KPI) to monitor sales and decreased costs by 17%.
-  #### Sample dashboard
+  #### Dashboard
   ![image](https://user-images.githubusercontent.com/94198619/141538169-9316d645-0c70-4b1d-a591-ad44797b052e.png)
   
 
