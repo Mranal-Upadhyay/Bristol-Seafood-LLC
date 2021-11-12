@@ -5,8 +5,6 @@
 - Bristol is locally owned Seafood production company located in Portland, Maine. They source and produce the highest quality seafood that meets “Uncompromising     Maine   Standards.” The company wants to analyze the yield using Dashboards which helps in making strategic decision for company. 
 - The Dashboard helped Bristol Seafood to flag issues related to the yield meaning which are outside the regular parameters. 
 - The dataset contains production data of majorly three types of fishes’ scallops, cod, and haddock. They Dataset describes daily, weekly, monthly, and quarterly       produced yields. 
-# Data 
-- 
 
 # DETAILED DESIGN APPROACH AND TECHNOLOGY USED
 - Data mining: The programming language used in data mining is Python. And the database is the daily production data in Excel.  
@@ -26,9 +24,20 @@
   ![image](https://user-images.githubusercontent.com/94198619/141538026-5436e4ba-a1de-428a-860f-5abb8714fe6a.png)
 
 - Dashboard Creation: Built visualizations showing yield produced and production growth rate quarterly from 2019 to 2021.	Developed Key Performance Indicators       (KPI) to monitor sales and decreased costs by 17%.
-  #### Dashboard
+#### Sample Dashboard
   ![image](https://user-images.githubusercontent.com/94198619/141538169-9316d645-0c70-4b1d-a591-ad44797b052e.png)
   
+  # Dashboard
+  
+  ![image](https://user-images.githubusercontent.com/94198619/141539090-9d135075-57ec-4efb-9d37-9442e3b44106.png)
+
+  ![image](https://user-images.githubusercontent.com/94198619/141539149-443f6749-ff1c-42e3-b7fe-1252a8489ddf.png)
+
+  ![image](https://user-images.githubusercontent.com/94198619/141539170-3f9f7aaf-54fd-41cc-a92f-270bc0e920d8.png)
+
+  ![image](https://user-images.githubusercontent.com/94198619/141539190-8e691d2a-dc4e-4c97-9ff2-337c9940140b.png)
+
+  ![image](https://user-images.githubusercontent.com/94198619/141539213-f56fa726-32f8-4948-9ec9-15935569ede7.png)
 
  
  
