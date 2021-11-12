@@ -14,14 +14,20 @@
   The data was not the original data - it was a production report file that includes report and production data of all the products (Haddock, Cod,                   Scallops). Extracted the data from the report file using python during extraction.
 
   During extraction, some noise was added to the extracted files, Cleaned the noise and arranged the data properly. Checked for missing values in each file -         they were no missing values in most of the files, some files had very few missing values compared to the entire data. Removed these missing rows since             replacing the data with methods like forward fill, mean, mode, etc. They were not suitable for these values and would bring inconsistencies during visualization   and analysis part.
+  ![image](https://user-images.githubusercontent.com/94198619/141537600-a1bb0ff7-423a-423d-8ef9-c67247745dfd.png)
+  ![image](https://user-images.githubusercontent.com/94198619/141537693-cd4064fc-cf7f-43a2-9ab7-132ca9c759e0.png)
+  ![image](https://user-images.githubusercontent.com/94198619/141537708-9bd2d92b-7d7e-4da7-9a04-c22610360ce0.png)
 
 - Data analysis: Performed Detailed data analysis in Python and Excel. 
+  Logic is based on requirement from the sponsor. Therefore, we need variables which could flag production related issues and hence our analysis logic was based on   sponsor requirement and the right data required for dashboard.
+  Tools: Used Python to extract, clean, and analysis the data. Then, the tools used for visualization is Tableau as it is a better for visualization as well as it   is scalable. In the meantime, integrated python script on tableau. Integrated the cleansed data to tableau and provide visualization on each KPIs. 
+  ![image](https://user-images.githubusercontent.com/94198619/141538026-5436e4ba-a1de-428a-860f-5abb8714fe6a.png)
 
 - Dashboard Creation: Built visualizations showing yield produced and production growth rate quarterly from 2019 to 2021.	Developed Key Performance Indicators       (KPI) to monitor sales and decreased costs by 17%.
+  #### Sample dashboard
+  ![image](https://user-images.githubusercontent.com/94198619/141538169-9316d645-0c70-4b1d-a591-ad44797b052e.png)
+  
 
  
- 
-Eexplored some technical challenges regarding dashboard creation like many of us are not technically strong when it comes to the use of tools like Python and         Tableau. To overcome this challenge every member of our team is going through various online training programs regardless of the platform. The major aspect of this   project that intrigued us to get involved in it is dashboard creation and we found it technically strong that will help us to become informatics professionals. 
-  
  
 
